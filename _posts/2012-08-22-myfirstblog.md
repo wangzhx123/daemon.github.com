@@ -2,8 +2,8 @@
 layout: post
 title: "第一篇博客"
 description: "第一篇博客"
-category: essay
-tags: []
+category: 随笔
+tags: [第一次, jkelly]
 ---
 
 

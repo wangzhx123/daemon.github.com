@@ -11,5 +11,5 @@ comments: no
 ###联系方式：        
 
 个人邮箱: [nullptr](mailto:nullptr@gmail.com)     
-新浪微博: [webfrogs](http://weibo.com/imywa)	 
+新浪微博: [iMy](http://weibo.com/imywa)	 
 
